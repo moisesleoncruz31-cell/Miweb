@@ -1,0 +1,12 @@
+{
+  "name": "ruta-norte-storefront",
+  "private": true,
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "pdfkit": "^0.17.1",
+    "resend": "^4.8.0"
+  }
+}
